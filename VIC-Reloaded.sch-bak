@@ -40,37 +40,37 @@ Text GLabel 7475 1950 2    60   BiDi ~ 0
 D6
 Text GLabel 7475 2050 2    60   BiDi ~ 0
 D7
-Text GLabel 7475 2200 2    60   Output ~ 0
+Text GLabel 7475 2200 2    60   Input ~ 0
 A0
-Text GLabel 7475 2300 2    60   Output ~ 0
+Text GLabel 7475 2300 2    60   Input ~ 0
 A1
-Text GLabel 7475 2400 2    60   Output ~ 0
+Text GLabel 7475 2400 2    60   Input ~ 0
 A2
-Text GLabel 7475 2500 2    60   Output ~ 0
+Text GLabel 7475 2500 2    60   Input ~ 0
 A3
-Text GLabel 7475 2600 2    60   Output ~ 0
+Text GLabel 7475 2600 2    60   Input ~ 0
 A4
-Text GLabel 7475 2700 2    60   Output ~ 0
+Text GLabel 7475 2700 2    60   Input ~ 0
 A5
-Text GLabel 7475 2800 2    60   Output ~ 0
+Text GLabel 7475 2800 2    60   Input ~ 0
 A6
-Text GLabel 7475 2900 2    60   Output ~ 0
+Text GLabel 7475 2900 2    60   Input ~ 0
 A7
-Text GLabel 7475 3000 2    60   Output ~ 0
+Text GLabel 7475 3000 2    60   Input ~ 0
 A8
-Text GLabel 7475 3100 2    60   Output ~ 0
+Text GLabel 7475 3100 2    60   Input ~ 0
 A9
-Text GLabel 7475 3200 2    60   Output ~ 0
+Text GLabel 7475 3200 2    60   Input ~ 0
 A10
-Text GLabel 7475 3300 2    60   Output ~ 0
+Text GLabel 7475 3300 2    60   Input ~ 0
 A11
-Text GLabel 7475 3400 2    60   Output ~ 0
+Text GLabel 7475 3400 2    60   Input ~ 0
 A12
-Text GLabel 7475 3500 2    60   Output ~ 0
+Text GLabel 7475 3500 2    60   Input ~ 0
 A13
-Text GLabel 7475 3600 2    60   Output ~ 0
+Text GLabel 7475 3600 2    60   Input ~ 0
 A14
-Text GLabel 7475 3700 2    60   Output ~ 0
+Text GLabel 7475 3700 2    60   Input ~ 0
 A15
 Text GLabel 8650 3150 0    60   Input ~ 0
 A0
@@ -88,21 +88,21 @@ Text GLabel 8650 3750 0    60   Input ~ 0
 A6
 Text GLabel 8650 3850 0    60   Input ~ 0
 A7
-Text GLabel 10050 3850 2    60   Output ~ 0
+Text GLabel 10050 3850 2    60   Input ~ 0
 VA7
-Text GLabel 10050 3750 2    60   Output ~ 0
+Text GLabel 10050 3750 2    60   Input ~ 0
 VA6
-Text GLabel 10050 3650 2    60   Output ~ 0
+Text GLabel 10050 3650 2    60   Input ~ 0
 VA5
-Text GLabel 10050 3550 2    60   Output ~ 0
+Text GLabel 10050 3550 2    60   Input ~ 0
 VA4
-Text GLabel 10050 3450 2    60   Output ~ 0
+Text GLabel 10050 3450 2    60   Input ~ 0
 VA3
-Text GLabel 10050 3350 2    60   Output ~ 0
+Text GLabel 10050 3350 2    60   Input ~ 0
 VA2
-Text GLabel 10050 3250 2    60   Output ~ 0
+Text GLabel 10050 3250 2    60   Input ~ 0
 VA1
-Text GLabel 10050 3150 2    60   Output ~ 0
+Text GLabel 10050 3150 2    60   Input ~ 0
 VA0
 Text GLabel 10050 4500 2    60   Input ~ 0
 A8
